@@ -21,7 +21,7 @@ Jack Chen - Research and utilize the machine learning that we learned from class
 <input sketch pictures here>
 <input small explanation of what each sketch is/highlighting Main functions to be supported in the sketch>
 
-<img src ="/sketches/main.PNG" width="450" height="600">
+<img src ="/sketches/main.PNG" width="600" height="450">
 
 Current Condition: <br/>
 -User has started and loaded the game
@@ -29,7 +29,7 @@ Current Condition: <br/>
 Action: <br/>
 -User presses start button
 
-<img src ="/sketches/controls.PNG" width="450" height="600">
+<img src ="/sketches/controls.PNG" width="600" height="450">
 
 New Conditions: <br/>
 -Games shows controls menu and how to set up game to work properly
@@ -38,7 +38,7 @@ New Conditions: <br/>
 Action: <br/>
 -User presses play button
 
-<img src ="/sketches/start.PNG" width="450" height="600">
+<img src ="/sketches/start.PNG" width="600" height="450">
 
 New Conditions: <br/>
 -Game displays rules and countdown until when the game start
@@ -48,17 +48,17 @@ Action: <br/>
 -Timer runs down so the game has started
 -User tilts head towards the left
 
-<img src ="/sketches/left.PNG" width="450" height="600">
+<img src ="/sketches/left.PNG" width="600" height="450">
 
 New Conditions: <br/>
 -Player model moves to the left
 
-Action:
+Action: <br/>
 -User tilts head towards the right
 
-<img src ="/sketches/right.PNG" width="450" height="600">
+<img src ="/sketches/right.PNG" width="600" height="450">
 
-New Conditions:
+New Conditions: <br/>
 -Player model moves to the right
 
 ## What we've done
