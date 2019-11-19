@@ -21,6 +21,11 @@ Jack Chen - Research and utilize the machine learning that we learned from class
 <input sketch pictures here>
 <input small explanation of what each sketch is/highlighting Main functions to be supported in the sketch>
 
+<img src ="/sketches/main.PNG" width="350" height="350">
+<img src ="/sketches/controls.PNG" width="350" height="350">
+<img src ="/sketches/start.PNG" width="350" height="350">
+<img src ="/sketches/left.PNG" width="350" height="350">
+<img src ="/sketches/right.PNG" width="350" height="350">
 
 ## What we've done
 Started researching everything we need, played around with Unity individually to get familiar with the interface. Independently planned out what needs to be done to accomplish our designated tasks.
