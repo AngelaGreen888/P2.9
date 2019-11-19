@@ -19,4 +19,11 @@ Jack Chen - Research and utilize the machine learning that we learned from class
 
 ## Our sketches 
 <input sketch pictures here>
-<input small explanation of what each sketch is>
+<input small explanation of what each sketch is/highlighting Main functions to be supported in the sketch>
+
+
+## What we've done
+Started researching everything we need, played around with Unity individually to get familiar with the interface. Independently planned out what needs to be done to accomplish our designated tasks.
+
+## Plan moving forward
+Create the Unity game file, and create clones on everyone's computers. Focus on the distributed tasks, and get those accomplished. If we run into road blocks, we'll ask each other to knowledge share and overcome everything together.
