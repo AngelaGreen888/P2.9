@@ -21,11 +21,45 @@ Jack Chen - Research and utilize the machine learning that we learned from class
 <input sketch pictures here>
 <input small explanation of what each sketch is/highlighting Main functions to be supported in the sketch>
 
-<img src ="/sketches/main.PNG" width="350" height="350">
-<img src ="/sketches/controls.PNG" width="350" height="350">
-<img src ="/sketches/start.PNG" width="350" height="350">
-<img src ="/sketches/left.PNG" width="350" height="350">
-<img src ="/sketches/right.PNG" width="350" height="350">
+<img src ="/sketches/main.PNG" width="450" height="600">
+
+Current Condition: <br/>
+-User has started and loaded the game
+
+Action: <br/>
+-User presses start button
+
+<img src ="/sketches/controls.PNG" width="450" height="600">
+
+New Conditions: <br/>
+-Games shows controls menu and how to set up game to work properly
+-User is able to click on take picture button to teach the game how to move
+
+Action: <br/>
+-User presses play button
+
+<img src ="/sketches/start.PNG" width="450" height="600">
+
+New Conditions: <br/>
+-Game displays rules and countdown until when the game start
+-User can see him/herself in camera at the bottom of screen
+
+Action: <br/>
+-Timer runs down so the game has started
+-User tilts head towards the left
+
+<img src ="/sketches/left.PNG" width="450" height="600">
+
+New Conditions: <br/>
+-Player model moves to the left
+
+Action:
+-User tilts head towards the right
+
+<img src ="/sketches/right.PNG" width="450" height="600">
+
+New Conditions:
+-Player model moves to the right
 
 ## What we've done
 Started researching everything we need, played around with Unity individually to get familiar with the interface. Independently planned out what needs to be done to accomplish our designated tasks.
