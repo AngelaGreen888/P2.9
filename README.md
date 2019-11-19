@@ -38,7 +38,7 @@ New Conditions: <br/>
 Action: <br/>
 -User presses play button
 
-<img src ="/sketches/start.PNG" width="600" height="450">
+<img src ="/sketches/start.png" width="600" height="450">
 
 New Conditions: <br/>
 -Game displays rules and countdown until when the game start
