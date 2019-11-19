@@ -32,7 +32,7 @@ Action: <br/>
 <img src ="/sketches/controls.PNG" width="600" height="450">
 
 New Conditions: <br/>
--Games shows controls menu and how to set up game to work properly
+-Games shows controls menu and how to set up game to work properly <br/>
 -User is able to click on take picture button to teach the game how to move
 
 Action: <br/>
@@ -41,11 +41,11 @@ Action: <br/>
 <img src ="/sketches/start.png" width="600" height="450">
 
 New Conditions: <br/>
--Game displays rules and countdown until when the game start
+-Game displays rules and countdown until the game starts <br/>
 -User can see him/herself in camera at the bottom of screen
 
 Action: <br/>
--Timer runs down so the game has started
+-Timer runs down so the game has started <br/>
 -User tilts head towards the left
 
 <img src ="/sketches/left.PNG" width="600" height="450">
