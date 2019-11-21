@@ -6,6 +6,9 @@ The player will control a player model using machine learning with camera functi
 
 ## About our team
 <input group picture here>
+![](P2.9.GroupPicture.jpg)
+From right to left: Timothy Bell, Angela Green, Stanley Yoang, Abraham Esparza, and Jack Chen
+
 
 Angela Green - Team Leader. Update the README file. Keep everyone on task, make sure we're hitting benchmarks. Help where needed. Keeping everyone updated and distributed the tasks. Making sure everyone has what they need to accomplish their tasks. Research UI for the start menu screen, the control setup screen, and the game's overall look while applying the design principles talked about in class. 
 
@@ -18,8 +21,6 @@ Abraham Esparza - Research and utilize the machine learning that we learned from
 Jack Chen - Research and utilize the machine learning that we learned from class under the project 1 resources. Implement the functionality of the machine learning process, in inputting a picture taken from Abraham to be utilized in the controls of moving the player model to the left or right. 
 
 ## Our sketches 
-<input sketch pictures here>
-<input small explanation of what each sketch is/highlighting Main functions to be supported in the sketch>
 
 <img src ="/sketches/main.PNG" width="600" height="450">
 
