@@ -5,8 +5,8 @@ This is an obstacle dodging game.
 The player will control a player model using machine learning with camera functionality to dodge incoming obstacles that progressively get faster the longer the game is played. The controls will be camera operated where the user will take pictures of what they will do to go left and pictures of what they will do to go rght for the machine learning aspect of the project. The goal is to go as far as possible without hitting an obstacle, or they will restart from the beginning. (This game is meant to be frustrating with the ultimate satifacation of finishing the game without hitting a single obstacle.) 
 
 ## About our team
-<input group picture here>
 ![](P2.9.GroupPicture.jpg)
+
 From right to left: Timothy Bell, Angela Green, Stanley Yoang, Abraham Esparza, and Jack Chen
 
 
