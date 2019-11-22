@@ -27,6 +27,7 @@ Jack Chen - Research and utilize the machine learning that we learned from class
 Current Condition: <br/>
 -User has started and loaded the game
 
+
 Action: <br/>
 -User presses start button
 
@@ -36,6 +37,7 @@ Action: <br/>
 New Conditions: <br/>
 -Games shows controls menu and how to set up game to work properly <br/>
 -User is able to click on take picture button to teach the game how to move
+
 
 Action: <br/>
 -User presses play button
@@ -47,6 +49,7 @@ New Conditions: <br/>
 -Game displays rules and countdown until the game starts <br/>
 -User can see him/herself in camera at the bottom of screen
 
+
 Action: <br/>
 -Timer runs down so the game has started <br/>
 -User tilts head towards the left
@@ -55,6 +58,7 @@ Action: <br/>
 
 New Conditions: <br/>
 -Player model moves to the left
+
 
 Action: <br/>
 -User tilts head towards the right
