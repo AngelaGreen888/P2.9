@@ -22,7 +22,7 @@ Jack Chen - Research and utilize the machine learning that we learned from class
 
 ## Our sketches 
 
-<img src ="/sketches/main.PNG" width="600" height="450">
+![](main.PNG)
 
 Current Condition: <br/>
 -User has started and loaded the game
