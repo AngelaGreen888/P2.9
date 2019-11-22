@@ -30,7 +30,8 @@ Current Condition: <br/>
 Action: <br/>
 -User presses start button
 
-<img src ="/sketches/controls.PNG" width="600" height="450">
+
+![](/sketches/controls.PNG)
 
 New Conditions: <br/>
 -Games shows controls menu and how to set up game to work properly <br/>
@@ -39,7 +40,8 @@ New Conditions: <br/>
 Action: <br/>
 -User presses play button
 
-<img src ="/sketches/start.png" width="600" height="450">
+
+![](/sketches/start.png)
 
 New Conditions: <br/>
 -Game displays rules and countdown until the game starts <br/>
@@ -49,7 +51,7 @@ Action: <br/>
 -Timer runs down so the game has started <br/>
 -User tilts head towards the left
 
-<img src ="/sketches/left.PNG" width="600" height="450">
+![](/sketches/left.PNG)
 
 New Conditions: <br/>
 -Player model moves to the left
@@ -57,7 +59,7 @@ New Conditions: <br/>
 Action: <br/>
 -User tilts head towards the right
 
-<img src ="/sketches/right.PNG" width="600" height="450">
+![](/sketches/right.PNG)
 
 New Conditions: <br/>
 -Player model moves to the right
