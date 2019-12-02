@@ -2,7 +2,7 @@
 
 # User Study Presentation 2 on December 2, 2019:
 
-Demo link: 
+Demo link: https://angelagreen888.github.io/P2.9/
 
 Task Description: Move the player model left and right (using the left and right arrow keys respectively) to dodge incoming obstacles. Make it to the end of the game without hitting a single obstacle.  
 
