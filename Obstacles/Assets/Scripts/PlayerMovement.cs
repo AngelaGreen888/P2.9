@@ -29,8 +29,8 @@ public class PlayerMovement : MonoBehaviour {
 
 
         if (rb.position.y < -1f) {
-            SceneManager.LoadScene("GameOver");
-            //FindObjectOfType<GameManager>().EndGame();
+            //SceneManager.LoadScene("GameOver");
+            FindObjectOfType<GameManager>().EndGame();
         }
     }
 }

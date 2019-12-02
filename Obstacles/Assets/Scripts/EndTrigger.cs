@@ -6,6 +6,7 @@ public class EndTrigger : MonoBehaviour {
 
     private void OnTriggerEnter()
     {
-        gameManger.CompleteGame();
+        //gameManger.CompleteGame();
+        Application.Quit();
     }
 }
