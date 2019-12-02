@@ -1,5 +1,20 @@
 # P2.9
 
+# User Study Presentation 2 on December 2, 2019:
+
+Demo link: 
+
+Task Description: Move the player model left and right (using the left and right arrow keys respectively) to dodge incoming obstacles. Make it to the end of the game without hitting a single obstacle.  
+
+Hypothesis: We believe that the users will be able to move the player model easily using the simple controls. They will collide with the premade obstacles and/or fall off of the stage and the game will restart after a few seconds of physics animation of how the blocks will move with each individual collision. We believe that it will be basic, and that the users should be able to complete the game within 5 - 10 minutes of playing. We also assume that due to the game being basic and incomplete, they will question the colors of the obstacles in the game to better differentiate ramps and obstacles. 
+
+The game has basic functionality in the current time. We will add more descriptions and embellished screens in order to make sure that it's intuitive for the user to go through from the start of the game to the end. Also we intend on using machine learning to control the movement of the player model. It's very difficult to implement machine learning in Unity, so it will take a good amount of time to complete. We know the color issue of the obstacles and ramps to be confusing and will add this to the final product. 
+
+
+---
+---
+
+# Sketch Presentation 1 on November 22, 2019:
 ## About the game
 This is an obstacle dodging game. 
 The player will control a player model using machine learning with camera functionality to dodge incoming obstacles that progressively get faster the longer the game is played. The controls will be camera operated where the user will take pictures of what they will do to go left and pictures of what they will do to go rght for the machine learning aspect of the project. The goal is to go as far as possible without hitting an obstacle, or they will restart from the beginning. (This game is meant to be frustrating with the ultimate satifacation of finishing the game without hitting a single obstacle.) 
