@@ -2666,7 +2666,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 471012334}
-  forwardForce: 2000
+  forwardForce: 2050
   sidewaysForce: 50
 --- !u!54 &471012334
 Rigidbody:
@@ -4305,7 +4305,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 788491263}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 3.02, z: 899.96}
+  m_LocalPosition: {x: 0, y: 3.02, z: 900.84}
   m_LocalScale: {x: 15, y: 5, z: 5}
   m_Children: []
   m_Father: {fileID: 0}
@@ -6275,7 +6275,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   restartDelay: 2
-  completeGameUI: {fileID: 0}
 --- !u!4 &1231526618
 Transform:
   m_ObjectHideFlags: 0
