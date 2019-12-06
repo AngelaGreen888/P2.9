@@ -13,7 +13,7 @@ public class PlayerCollision : MonoBehaviour {
             //SceneManager.LoadScene("GameOver");
 
             FindObjectOfType<GameManager>().EndGame();
-
+            scoreText.Update();
         }
 
         if(collisionInfo.collider.tag == "Finish")
