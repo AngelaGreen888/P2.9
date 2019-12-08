@@ -4,6 +4,7 @@ ScriptsOnlyBuild:
     - EndTrigger
     - FollowPlayer
     - GameManager
+    - Menu
     - PlayerCollision
     - PlayerMovement
     - Score
@@ -59,23 +60,25 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9868}
     - Class: 114
-      Script: {instanceID: 10236}
+      Script: {instanceID: 10160}
     - Class: 114
-      Script: {instanceID: 10568}
+      Script: {instanceID: 10238}
     - Class: 114
-      Script: {instanceID: 10572}
+      Script: {instanceID: 10574}
     - Class: 114
-      Script: {instanceID: 10662}
+      Script: {instanceID: 10578}
     - Class: 114
-      Script: {instanceID: 10728}
+      Script: {instanceID: 10668}
     - Class: 114
-      Script: {instanceID: 10850}
+      Script: {instanceID: 10734}
     - Class: 114
-      Script: {instanceID: 11018}
+      Script: {instanceID: 10856}
     - Class: 114
-      Script: {instanceID: 11110}
+      Script: {instanceID: 11024}
     - Class: 114
-      Script: {instanceID: 11360}
+      Script: {instanceID: 11116}
+    - Class: 114
+      Script: {instanceID: 11366}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
