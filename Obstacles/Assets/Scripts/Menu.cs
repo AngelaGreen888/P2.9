@@ -1,12 +1,14 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class Menu : MonoBehaviour {
+    public GameObject mainMenu;
+    public GameObject instructionMenu;
 
     public void StartGame() {
-
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-
+        mainMenu.SetActive(false);
+        instructionMenu.SetActive(true);
     }
 
 

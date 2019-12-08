@@ -2,14 +2,18 @@
 using UnityEngine.UI;
 
 public class Score : MonoBehaviour {
+    public static Score instance;
 
-    public Transform player;
-    public int scoreText = 0;
+    public Text triesText;
+
+    void Start(){
+      instance = this;
+    }
 
 	// Update is called once per frame
 	void Update () {
 
-        scoreText = scoreText + 1;
+        triesText.text = "Tries: " + GameManager.instance.triesScore.ToString();
 
 	}
 }
