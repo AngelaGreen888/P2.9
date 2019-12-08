@@ -1,4 +1,50 @@
 # P2.9
+Project2.Group9
+
+# Final Presentation on December 9, 2019:
+
+Link to the finished game: https://angelagreen888.github.io/P2.9/
+
+## About the game
+
+Our game is called "Obstacles".
+
+This is an obstacle dodging game.
+
+The player will control a player model (using the left and right arrow keys) to dodge incoming obstacles that progressively get faster the longer the game is played. The goal is to get to the end of the path without hitting an obstacle, or the player will restart from the beginning. (This game is meant to be frustrating with the ultimate satifacation of finishing the game without hitting a single obstacle.) 
+
+The game has a start screen, followed by an instructions screen at the start of the game. We've included a "Tries" counter at the top of the screen during the game, so the player can know how many attempts they've had. When the player hits an obstacle or falls off the path, the game will give the player 2 seconds of animation and then reset to the beginning of the path. Once the player reaches the end of the path there will be an end screen showing how many attempts it took the player to finish the game. 
+
+We've incorporated colors to help the player better understand the elements of the game. 
+
+**(INSERT PICTURE OF THE ASSET COLORS)** 
+
+## Our change in plans
+We realize that the finished game does not include the machine learning mechanics that we intended to implement at the start of this project. This was a very difficult mechanic that we tried to implement, but we couldn't get it to work. **(INSERT DETAILS ON WHY IT DOESN'T WORK HERE)** We had 3 of our developers look into this, and it wasn't working with their collaboration.
+
+In order to finish the game by the due date, we utilized the arrow keys as a way to control the player model instead. This is actually much easier on the player as they don't have to take pictures of how they want to control the game. 
+
+## Gif of the Game
+**(INSERT .GIF HERE)**
+
+## About our team
+![](P2.9.GroupPicture.jpg)
+
+From right to left: Timothy Bell, Angela Green, Stanley Yoang, Abraham Esparza, and Jack Chen
+
+
+Angela Green - Team Leader. Update the README file. Keep everyone on task, make sure we're hitting benchmarks. Help where needed. Keeping everyone updated and distributed the tasks. Making sure everyone has what they need to accomplish their tasks. Implement UI for the start, instructions, and end screens and the game's overall look while applying the design principles talked about in class. 
+
+Timothy Bell - Utilize Unity to create the functionality of the game (moving an object left and right per user input of the arrow keys). Understand the architecture of the unity game file. 
+
+Stanley Yoang - Sketch the ideas that we all come up with to provide a basis for the UI. Make sure the UI/UX in the sketch will be similar to how it will be implemented. Implementing the menu design from the sketches and making sure that the product looks how we planned it during the beginning phase. Research and try to implement machine learning in unity. 
+
+Abraham Esparza - Research and utilize the machine learning that we learned from class under the project 1 resources. Research and tried to implement the capture of the user's camera, and be able to take a picture for the machine learning process. Helped connect the screens to each other. 
+
+Jack Chen - Research and try to implement the machine learning that we learned from class under the project 1 resources. Research and tried to implement the functionality of the machine learning process, in inputting a picture taken from Abraham to be utilized in the controls of moving the player model to the left or right. Helped change the elements to follow the asset colors. 
+
+---
+---
 
 # User Study Presentation 2 on December 2, 2019:
 
