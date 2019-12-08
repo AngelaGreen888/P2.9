@@ -21,9 +21,10 @@ We've incorporated colors to help the player better understand the elements of t
 ![](AssetColors.png)
 
 ## Our change in plans
-We realize that the finished game does not include the machine learning mechanics that we intended to implement at the start of this project. This was a very difficult mechanic that we tried to implement, but we couldn't get it to work. **(INSERT DETAILS ON WHY IT DOESN'T WORK HERE)** We had 3 of our developers look into this, and it wasn't working with their collaboration.
 
-In order to finish the game by the due date, we utilized the arrow keys as a way to control the player model instead. This is actually much easier on the player as they don't have to take pictures of how they want to control the game. 
+We realize that the finished game does not include the machine learning mechanics through the camera control system as was originally planned to be implemented at the start of this project. This was an ambitious and difficult mechanic to implement, and we couldn't get it to work properly without any errors/issues by the deadline. We had three of our developers attempt to implement the feature, however it still wasn't operating correctly. 
+
+However after the user study and discussing with various testers of our game, we decided it would be better suited to just use the arrow keys to play our game. Many of the users found the game to be difficult enough to play using the arrow keys already. If we were to implement the camera control system to move the player model, we thought it'd make the game too difficult to play and not enjoyable for the player. The arrow keys control system provides the correct amount of difficulty to allow the game to still be challenging and enjoyable. The simpler control interface also allows the player to start playing the game faster because they don't have to set up the camera control system before playing the game. 
 
 ## Gif of the Game
 **(INSERT .GIF HERE)**
