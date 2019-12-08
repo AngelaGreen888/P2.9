@@ -14,6 +14,7 @@ This is an obstacle dodging game.
 The player will control a player model (using the left and right arrow keys) to dodge incoming obstacles that progressively get faster the longer the game is played. The goal is to get to the end of the path without hitting an obstacle, or the player will restart from the beginning. (This game is meant to be frustrating with the ultimate satifacation of finishing the game without hitting a single obstacle.) 
 
 The game has a start screen, followed by an instructions screen at the start of the game. We've included a "Tries" counter at the top of the screen during the game, so the player can know how many attempts they've had. When the player hits an obstacle or falls off the path, the game will give the player 2 seconds of animation and then reset to the beginning of the path. Once the player reaches the end of the path there will be an end screen showing how many attempts it took the player to finish the game. 
+We didn't include any sounds in the game, as we felt that it would be a distraction from the intense gameplay. 
 
 We've incorporated colors to help the player better understand the elements of the game. 
 
