@@ -17,7 +17,7 @@ The game has a start screen, followed by an instructions screen at the start of 
 
 We've incorporated colors to help the player better understand the elements of the game. 
 
-**(INSERT PICTURE OF THE ASSET COLORS)** 
+![](AssetColors.png)
 
 ## Our change in plans
 We realize that the finished game does not include the machine learning mechanics that we intended to implement at the start of this project. This was a very difficult mechanic that we tried to implement, but we couldn't get it to work. **(INSERT DETAILS ON WHY IT DOESN'T WORK HERE)** We had 3 of our developers look into this, and it wasn't working with their collaboration.
