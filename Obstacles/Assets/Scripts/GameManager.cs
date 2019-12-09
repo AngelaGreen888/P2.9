@@ -21,6 +21,7 @@ public class GameManager : MonoBehaviour {
 
     private void Start(){
       if(PlayerPrefs.GetInt("triesScore") <= 1){
+            triesScore = 1;
         mainUI.SetActive(true);
         instructionsUI.SetActive(false);
         completeGameUI.SetActive(false);
